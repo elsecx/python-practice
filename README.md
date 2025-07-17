@@ -25,8 +25,8 @@ The learning journey is divided into several stages, from beginner to advanced, 
 
 > This stage introduces more advanced Python features with hands-on practice.
 
--   [ ] List Comprehension
--   [x] Tuples & Sets
+-   [x] List Comprehension
+-   [ ] Tuples & Sets
 -   [ ] Functions with `*args` and `**kwargs`
 -   [ ] Exception Handling (`try`, `except`)
 -   [ ] Modularization (`import`, modules)
