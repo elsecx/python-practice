@@ -27,7 +27,7 @@ The learning journey is divided into several stages, from beginner to advanced, 
 
 -   [x] List Comprehension
 -   [x] Tuples & Sets
--   [ ] Functions with `*args` and `**kwargs`
+-   [x] Functions with `*args` and `**kwargs`
 -   [ ] Exception Handling (`try`, `except`)
 -   [ ] Modularization (`import`, modules)
 -   [ ] File I/O (reading/writing `.txt` files)
